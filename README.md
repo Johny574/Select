@@ -1,2 +1,2 @@
 # MultiSelect
-Script to select object with same filetype
+Script to select easily select objects of same filetype
